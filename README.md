@@ -7,3 +7,5 @@ I made more changes
 Additional commit
 
 Changes for test 3
+
+Test 2
