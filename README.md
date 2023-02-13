@@ -2,4 +2,8 @@
 
 Hello - I made changes
 
+I made more changes
+
+Additional commit
+
 Changes for test 3
