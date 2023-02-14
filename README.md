@@ -1,6 +1,10 @@
 # test-project
 
+I am going to fix bug
+
 Hello - I made changes
+
+I am going to fix bug
 
 I made more changes
 
@@ -14,3 +18,5 @@ Test 3
 Bla bla bla
 
 Changes
+
+Next commit
